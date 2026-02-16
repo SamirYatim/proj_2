@@ -1,6 +1,3 @@
-Вот готовое содержимое для файла `README.md`, оформленное в соответствии с вашими требованиями.
-
-```markdown
 # Прогноз урожайности зерновых по спутниковым данным и метеоинформации
 
 ## Краткое описание
@@ -113,4 +110,3 @@ python main.py
 2.  **Eurostat:** Regional statistics by NUTS classification. — URL: https://ec.europa.eu/eurostat/web/regions.
 3.  **Khaki, S., Wang, L., & Archontoulis, S. V.** (2020). "A CNN-RNN Framework for Crop Yield Prediction." — *Frontiers in Plant Science*.
 4.  **Wang, Z. et al.** "Mapping crop yield with the fusion of satellite and climate data using machine learning approaches." — *Computers and Electronics in Agriculture*.
-```
